@@ -1,3 +1,3 @@
 # HackerRank
 
-Atividades elaboradas no site HackerRanck.
+Atividades elaboradas no site HackerRank.
